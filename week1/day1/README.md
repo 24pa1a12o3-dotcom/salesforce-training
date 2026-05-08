@@ -23,9 +23,13 @@ CRM stands for Customer Relationship Management. It is a technology and strategy
 A CRM system helps organizations:
 
 Store customer information
+
 Track communication history
+
 Manage sales processes
+
 Improve customer service
+
 Increase business productivity
 
 Instead of maintaining customer details in spreadsheets or notebooks, companies use CRM software to keep all information centralized and organized.
@@ -47,9 +51,13 @@ An Account represents a company, organization, or customer business.
 It stores information related to:
 
 Company name
+
 Address
+
 Industry
+
 Phone number
+
 Website
 
 Contact:
@@ -58,8 +66,11 @@ A Contact represents an individual person associated with an Account.
 It stores:
 
 Name
+
 Phone number
+
 Email
+
 Job title
 
 Opportunity:
@@ -68,8 +79,11 @@ An Opportunity represents a potential sales deal.
 It tracks:
 
 Deal amount
+
 Stage of sale
+
 Expected closing date
+
 Probability of winning the deal
 
 ## real world mapping
